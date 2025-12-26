@@ -35,8 +35,7 @@ Passionate about building real-world, scalable web applications.
 
 ### 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ajith-developer
-- 💻 GitHub: https://github.com/Ajith19-fsd
-
+  
 ---
 
 ⭐ Feel free to explore my repositories and projects!
