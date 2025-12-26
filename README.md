@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm Ajith 👋
 
-<!--
-**Ajith19-fsd/Ajith19-fsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer | Spring Boot | React | MySQL  
+Passionate about building real-world, scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 🎬 **Movie Ticket Booking System (MTBS)**  
+  Full-stack application with JWT authentication, role-based access, seat booking, payment flow, and email notifications.
+
+- 💰 **Smart Spend – Expense Tracker**  
+  Personal finance management app to track income, expenses, categories, and monthly summaries.
+
+- 🎓 **Learning Management System (LMS)**  
+  Role-based LMS with Admin, Instructor, and Student modules, course management, enrollments, and media uploads.
+
+---
+
+### 🛠 Tech Stack
+- **Backend:** Java, Spring Boot, REST APIs, JWT, Hibernate  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, Postman  
+- **Deployment:** Render, Vercel / Netlify
+
+---
+
+### 📌 Currently Learning
+- Advanced Spring Boot & Microservices  
+- Frontend performance & UI/UX improvements  
+- Cloud deployment best practices
+
+---
+
+### 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ajith-developer
+- 💻 GitHub: https://github.com/Ajith19-fsd
+
+---
+
+⭐ Feel free to explore my repositories and projects!
