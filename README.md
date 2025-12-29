@@ -39,7 +39,9 @@ Passionate about building secure, scalable, real-world web applications.
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/ajith-developer
+- 🌐 **Portfolio:** https://ajith-web-portfolio.netlify.app
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ajith-developer
+- 📧 **Email:** ajithraja1904@gmail.com
 
 ---
 
